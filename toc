@@ -9,5 +9,5 @@ Simulated Historical Instrument Analytics
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
-    [API reference](https://console.stage1.bluemix.net/apidocs/fss-historical-scenario-analytics-service)
+    [API reference](https://console.stage1.bluemix.net/apidocs/simulated-historical-instrument-analytics)
     {: .navgroup-end}
