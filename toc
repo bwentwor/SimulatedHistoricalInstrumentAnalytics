@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="SimulatedHistoricalInstrumentAnalytics" audience="service" href="/docs/services/SimulatedHistoricalInstrumentAnalytics/index.html"}
+{: .toc subcollection="SimulatedHistoricalInstrumentAnalytics" audience="service" arm="3917558" href="/docs/services/SimulatedHistoricalInstrumentAnalytics/index.html"}
 Simulated Historical Instrument Analytics
 
     {: .navgroup id="learn"}
